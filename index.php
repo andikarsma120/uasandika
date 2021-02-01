@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http_equiv="X-UA-Compatible" content="ie=edge">
-    <title> UAS </title>
+    <title> DATA MAHASISWA </title>
     <link rel="stylesheet" href="bootstrap.css">
     <script src="jquery-3.4.1.min.js"></script>
 </head>
@@ -13,7 +13,7 @@
     <div class="container col-md-6">
         <div class="card">
             <div class="card-header bg-primary text-white">
-                Tabel Mahasiswa
+                MASUKKAN DATA MAHASISWA
             </div>
             <div class="card-body">
                 <form action="" method="POST" class="form-item">
@@ -26,12 +26,12 @@
 
                     <div class="form-group">
                         <label for="namamhs">NAMA MAHASISWA</label>
-                        <input type="text" name="namamhs" class="form-control colt-mb-9" placeholder="Masukkan Nama">
+                        <input type="text" name="nama_mhs" class="form-control colt-mb-9" placeholder="Masukkan Nama">
                     </div>
 
                     <div class="form-group">
                         <label for="tempatlahir">TEMPAT LAHIR</label>
-                        <input type="text" name="tempatlahir" class="form-control colt-mb-9" placeholder="Masukkan Tempat Lahir">
+                        <input type="text" name="tempat_lahir" class="form-control colt-mb-9" placeholder="Masukkan Tempat Lahir">
                     </div>
 
                     <div class="form-group">
